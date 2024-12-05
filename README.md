@@ -1,5 +1,5 @@
 # 💫 About Me:
-im working on web devolpments <br><br>i am learninng  machine learninng
+iam m working on web devolpments <br><br>
 
 
 # 💻 Tech Stack:
